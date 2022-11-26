@@ -1,0 +1,4 @@
+{'id': 1002, 'name': 'å©·å©·', 'english': 100, 'python': 99, 'java': 80}
+{'id': 1003, 'name': 'å¤§åŠ›å£«', 'english': 92, 'python': 90, 'java': 93}
+{'id': 1001, 'name': 'æ ‘', 'english': 100, 'python': 98, 'java': 95}
+~eÑH ÙÑS%f™ßÆUû0%.4…m‰†bD:l&[ÖoGóíÏ¹ét×Bû 1gí˜8„— Ex4`GLíJâ
